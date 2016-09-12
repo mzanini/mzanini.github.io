@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Marco Zanini: the first post of my personal website."
 date: 2016-09-12
 ---
