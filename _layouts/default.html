@@ -1,5 +1,9 @@
 <html>
   <head>
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
+    
     <title>{{ page.title }}</title>
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -25,8 +29,5 @@
             <li><a href="blog/atom.xml">RSS feed</a></li>
       </ul>
     </footer>
-    {% if jekyll.environment == 'production' %}
-        {% include analytics.html %}
-    {% endif %}
   </body>
 </html>
