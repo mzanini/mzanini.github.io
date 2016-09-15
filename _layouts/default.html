@@ -25,5 +25,8 @@
             <li><a href="https://mzanini.github.io/atom.xml">RSS feed</a></li>
       </ul>
     </footer>
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
