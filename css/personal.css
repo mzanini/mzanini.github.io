@@ -1,0 +1,9 @@
+#about_picture {
+  float: right;
+  position: relative;
+}
+
+footer {
+  clear: both;
+  margin-top: 10px;
+}
