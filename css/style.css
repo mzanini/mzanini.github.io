@@ -78,6 +78,10 @@ ul.posts li {
   position: relative;
 }
 
+#about_me {
+  float: right;
+}
+
 footer {
   clear: both;
   margin-top: 10px;
