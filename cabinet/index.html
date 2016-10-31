@@ -1,0 +1,13 @@
+---
+layout: default
+title: Cabinet
+---
+  <h1>{{ page.title }}</h1>
+  <ul class="posts">
+    This is my Cabinet, I open and update it regularly to make sure I always have the most suitable clothes to wear.</br>
+    You are welcome to wear them too, if you like. </br>
+    </br>
+    {% for item in site.dresses %}
+      <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
