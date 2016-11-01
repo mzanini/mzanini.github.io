@@ -109,3 +109,14 @@ footer {
   padding: 0.5em;
   background-color: LightCyan; 
 }
+
+.emp {
+  background-color: lightGreen;
+  margin: auto;
+  display: inline-block;
+  width: auto;
+  text-align: center;
+  padding: 0.5em;
+  margin: 1.5em;
+  border-radius: 0.2em;
+}
