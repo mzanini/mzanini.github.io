@@ -16,3 +16,4 @@
 | Memoirs of a Geisha | Arthur Golden | 2020-04-21 | 2020-06-23 | A very engaging novel, albeit pretty long! I would give it 4 and a half stars. |
 | The Manager's Path | Camille Fournier | 2020-04-27 | | |
 | The Five Disfunctions of a Team | Patrick Lencioni | 2020-06-24 | 2020-09-04 | Great book about managing teams. Great explanation about the basic building blocks of great teams. |
+| Sapiens: A Brief History of Humankind | Yuval Noah Harari | 2020-10-01 | 2020-11-01 | A lot of hype but the book is not good. Just the first chapter is worth reading. The author thinks he can talk about economics, science, antropology and give his opinion about everything. It takes much more than that. |
