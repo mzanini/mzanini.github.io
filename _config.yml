@@ -6,3 +6,4 @@ permalink: /blog/:year/:month/:day/:title
 collections:
   dresses:
     output: true
+theme: jekyll-theme-cayman
