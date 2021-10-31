@@ -17,3 +17,4 @@
 | The Manager's Path | Camille Fournier | 2020-04-27 | | |
 | The Five Disfunctions of a Team | Patrick Lencioni | 2020-06-24 | 2020-09-04 | Great book about managing teams. Great explanation about the basic building blocks of great teams. |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | 2020-10-01 | 2020-11-01 | A lot of hype but the book is not good. Just the first chapter is worth reading. The author thinks he can talk about economics, science, antropology and give his opinion about everything. It takes much more than that. |
+| Guns, Germs and Steel | Jared Diamond | July, 2021 | October, 2021 | An interesting book that shows how different societies are influenced by the environment they live in. Contains an explanation as to why Euroasians came to dominate the modern world. Of the same author, I like "Collapse" better. |
